@@ -1,0 +1,13 @@
+{
+	"required" : "Поле :custom обязательно",
+	"email" : "Пожалуйста, введите правильный :custom",
+	"max" : "Максимальное число символов в поле :custom - :other",
+	"min" : "Минимальное число символов в поле :custom - :other",
+	"card" : "Введите :custom правильно",
+	"cpf" : "The :custom typed is invalid",
+	"cnpj" : "The :custom typed is invalid",
+	"cpfCnpj" : "The :custom is invalid, please try again",
+	"cep" : "The :custom typed is invalid",
+	"number" : "The field :custom must be a number",
+	"url" : "Please enter a valid :custom"
+}
